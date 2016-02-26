@@ -1,13 +1,13 @@
 The following repository is a collection of buckets for [Scoop](scoop.sh).
 
-## Installation
+### Installation
 
-Add the bucket to **scoop**:
+First add the bucket to **scoop**:
 ```
 > scoop bucket add klaidliadon https://github.com/klaidliadon/scoop-buckets
 ```  
 
-Install the packages:
+Then install the **buckets** that you need:
 ```
 > scoop install glide
 installing glide (0.9.1)
@@ -16,3 +16,7 @@ checking hash...ok
 extracting...done
 creating shim for glide
 ```
+
+### Buckets
+
+- [Glide](https://github.com/Masterminds/glide)
