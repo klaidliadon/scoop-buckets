@@ -1,4 +1,4 @@
-The following repository is a collection of buckets for [Scoop](scoop.sh).
+The following repository is a collection of buckets for [Scoop](http://scoop.sh).
 
 ### Installation
 
