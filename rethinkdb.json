@@ -5,8 +5,7 @@
     "architecture": {
         "64bit": {
             "url": "https://download.rethinkdb.com/windows/rethinkdb-2.3.2.zip",
-            "hash": "c671552a1abd854d1e9852ac0d316a9a902052ee85031f4b458262f62905edb9",
-            "extract_dir": "windows-amd64"
+            "hash": "c671552a1abd854d1e9852ac0d316a9a902052ee85031f4b458262f62905edb9"
         }
     },
     "bin": "rethinkdb.exe"
